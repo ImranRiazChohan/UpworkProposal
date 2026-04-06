@@ -9,7 +9,8 @@ warnings.filterwarnings("ignore")
 # ─────────────────────────────────────────────
 # CONFIG  — apni key aur file paths yahan
 # ─────────────────────────────────────────────
-GEMINI_API_KEY = "AIzaSyCL5tXdQxXrVZvxrmjjfyFVK-qZFEXwTgg"   # <-- apni key
+GEMINI_API_KEY = st.secrets["GEMINI_API_KEY"]
+# GEMINI_API_KEY = "AIzaSyCL5tXdQxXrVZvxrmjjfyFVK-qZFEXwTgg1111"   # <-- apni key
 PROFILE_FILE   = "./profile.txt"
 PROPOSALS_FILE = "./proposals.txt"          # past proposals (optional, rakh lo same folder mein)
 CHROMA_DIR     = "./chroma_db"
