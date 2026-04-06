@@ -162,10 +162,10 @@ with st.sidebar:
     st.markdown("*AI Chatbot & Full Stack MERN Developer*")
     st.markdown("💰 **$25/hr** | ⭐ 5.0 | 🏆 100% JSS")
     st.markdown("---")
-    st.success(f"✅ {len(all_chunks)} chunks indexed")
     st.markdown("**🔗 Portfolio**")
     st.markdown("[AI Support Chatbot](https://repumediaintelligence.com)")
-    st.markdown("[Global Premium Trades](https://globalpremiumtrades-inc.com)")
+    st.markdown("[Global Premium Trades](https://globalpremiumtrades-inc.com)") 
+    st.markdown("[Global Premium Trades](https://globalpremiumtrades.com)")
     st.markdown("[Al-Noor MDF](https://alnoormdf.com)")
 
 # ─────────────────────────────────────────────
@@ -196,6 +196,7 @@ with col2:
         "AI Customer Support & Lead Generation Chatbot (repumediaintelligence.com)",
         "AI Medical Symptom Checker Chatbot (mobile app)",
         "Global Premium Trades Inc - E-commerce (globalpremiumtrades-inc.com)",
+        "Global Premium Trades - E-commerce (globalpremiumtrades.com)",
         "Al-Noor MDF Board Industries (alnoormdf.com)",
         "RAG AI Knowledge Assistant for Agriculture (research project)",
     ]
