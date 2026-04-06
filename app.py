@@ -248,7 +248,3 @@ if st.button("🚀 Generate Proposal", type="primary", use_container_width=True)
     st.markdown("---")
     st.subheader("📝 Generated Proposal")
     st.text_area("Copy karo 👇", value=proposal, height=420)
-
-    with st.expander("🔍 RAG Debug"):
-        for d in dbg:
-            st.write(f"**{d['section']}** — {d['relevance']}")
