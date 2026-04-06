@@ -164,7 +164,7 @@ with st.sidebar:
     st.markdown("---")
     st.markdown("**🔗 Portfolio**")
     st.markdown("[AI Support Chatbot](https://repumediaintelligence.com)")
-    st.markdown("[Global Premium Trades](https://globalpremiumtrades-inc.com)") 
+    st.markdown("[Global Premium Trades-inc](https://globalpremiumtrades-inc.com)") 
     st.markdown("[Global Premium Trades](https://globalpremiumtrades.com)")
     st.markdown("[Al-Noor MDF](https://alnoormdf.com)")
 
