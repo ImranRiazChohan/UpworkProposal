@@ -1,0 +1,63 @@
+[IDENTITY]
+Name: Imran Riaz Chohan
+Title: AI Chatbot & Full Stack MERN Developer | OpenAI | RAG | React | Node
+Hourly Rate: $25.00/hr
+Reviews: 3 reviews with 5-star rating
+Total Earnings: $400+
+Job Success Score: 100%
+
+[SUMMARY]
+I help startups and businesses build scalable web applications and AI-powered chatbots.
+Full Stack MERN developer specializing in SaaS platforms, AI chatbots, and automation using OpenAI and RAG.
+If you need a developer who understands both web development and AI systems, let's discuss your project.
+
+[SKILLS_FULLSTACK]
+Full Stack Development Expertise:
+- SaaS platforms with role-based access and multi-tenancy
+- E-commerce platforms with checkout and admin dashboards
+- REST APIs with authentication and third-party integrations
+- Scalable Node.js backends with MongoDB or PostgreSQL
+- React and Next.js applications with responsive UI
+
+[SKILLS_AI]
+AI and Chatbot Development Expertise:
+- AI chatbots powered by OpenAI and LLMs
+- RAG chatbots trained on PDFs, documents, and knowledge bases
+- AI assistants for customer support and automation
+- ChatGPT integrations for websites and SaaS platforms
+
+[TECH_STACK]
+Tech Stack:
+React.js, Node.js, Next.js, MongoDB, PostgreSQL, OpenAI API, RAG Architecture, REST APIs, Tailwind CSS, Firebase, LangChain, Python, FastAPI
+
+[PORTFOLIO_1]
+Project Title: AI Customer Support & Lead Generation Chatbot
+Role: LLM Chatbot Developer
+Type: AI Chatbot
+Description: Integrated a Lume AI Chatbot for 24/7 AI Customer Support on repumediaintelligence.com. This custom solution excels at Lead Generation, capturing name and email, and ensuring immediate CRM Integration. Developed automated workflow to save data directly into a Google Sheet. Maximize sales efficiency and customer satisfaction with this powerful conversational AI assistant.
+Link: repumediaintelligence.com
+Technologies: OpenAI, LLM, CRM Integration, Google Sheets, Lead Generation
+
+[PORTFOLIO_2]
+Project Title: AI Medical Symptom Checker Chatbot
+Role: Chatbot Developer
+Type: AI Chatbot, Mobile App
+Description: A secure mobile application offering preliminary health assessments. Integrates OpenAI LLM for intelligent conversational symptom analysis against a medical Knowledge Base. Firebase provides robust secure storage for patient information. Fast, confidential, and accurate digital health solution for users on the go.
+Link: N/A
+Technologies: OpenAI, LLM, Firebase, Mobile App Development, Healthcare AI, Knowledge Base
+
+[PORTFOLIO_3]
+Project Title: Global Premium Trades Inc - E-commerce Marketplace
+Role: Full Stack MERN Developer
+Type: E-commerce, Full Stack Web App
+Description: Built a fully responsive e-commerce marketplace platform for Global Premium Trades Inc, a sustainable fashion and premium resale brand specializing in pre-loved clothing, footwear, and accessories. The platform showcases curated product categories with dynamic listings, high-quality galleries, and a clean engaging user experience.
+Link: globalpremiumtrades-inc.com
+Technologies: React.js, Node.js, MongoDB, REST APIs, Tailwind CSS, E-commerce
+
+[PORTFOLIO_4]
+Project Title: Al-Noor MDF Board Industries - Company Website
+Role: Full Stack MERN Developer
+Type: Full Stack Web App, Company Website
+Description: Developed a fully responsive company website for Al-Noor MDF Board Industries using React.js for the front end and Node.js for backend services. Implemented dynamic product listings, interactive UI components, and smooth navigation to showcase their MDF and decorative laminate products. Integrated SEO-friendly structure, optimized performance, and ensured mobile responsiveness across devices. Clean code architecture and seamless user experience for both clients and administrators managing content.
+Link: alnoormdf.com
+Technologies: React.js, Node.js, SEO, MongoDB, REST APIs, Tailwind CSS, Admin Dashboard
