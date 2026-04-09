@@ -586,20 +586,4 @@ if st.button("🚀 Generate Proposal", type="primary", use_container_width=True)
     with c2:
         st.markdown(f"<br><span style='background:#e8f4e8;color:#2d6a2d;padding:4px 10px;border-radius:6px;font-size:12px'>🪝 {hook['name']}</span>", unsafe_allow_html=True)
 
-    st.text_area("Copy karo 👇", value=proposal, height=420)
-
-    col_a, col_b = st.columns(2)
-    with col_a:
-        st.download_button(
-            "📥 Download (.txt)",
-            data=proposal,
-            file_name=f"proposal_{job_title[:25].replace(' ', '_')}.txt",
-            mime="text/plain",
-            use_container_width=True
-        )
-    with col_b:
-        st.metric("Word Count", len(proposal.split()))
-
-    with st.expander("🔍 RAG Debug — Retrieved Chunks"):
-        for d in dbg:
-            st.caption(f"✅ {d['section']} — {d['relevance']}")
+    st.text_area("Generated Proposal 👇", value=proposal, height=420)
